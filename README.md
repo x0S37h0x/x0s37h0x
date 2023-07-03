@@ -1,5 +1,12 @@
-### Hi there 👋
+### About me
 
+
+
+
+### Technologies
+<img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=C%2B%2B&style=plastic&logo=cplusplus&color=000000&logoColor=000000"> <br>
+<img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=C&style=plastic&logo=C&color=000000&logoColor=000000">  <br>
+<img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=CSharp&style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABhGlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AYht+m1opUHOwg4pChOlkQFXHUKhShQqgVWnUwufQPmjQkKS6OgmvBwZ/FqoOLs64OroIg+APi6uKk6CIlfpcUWsR4x3EP733vy913gNCoMM3qGgc03TbTyYSYza2K4Vd0I0QTiMjMMuYkKQXf8XWPAN/v4jzLv+7P0afmLQYEROJZZpg28Qbx9KZtcN4njrKSrBKfE4+ZdEHiR64rHr9xLros8MyomUnPE0eJxWIHKx3MSqZGPEUcUzWd8oWsxyrnLc5apcZa9+QvjOT1lWWu0xpGEotYggQRCmooowIbcdp1Uiyk6Tzh4x9y/RK5FHKVwcixgCo0yK4f/A9+99YqTE54SZEEEHpxnI8RILwLNOuO833sOM0TIPgMXOltf7UBzHySXm9rsSOgfxu4uG5ryh5wuQMMPhmyKbtSkJZQKADvZ/RNOWDgFuhd8/rWOsfpA5ChXqVugINDYLRI2es+7+7p7Nu/Na3+/QC3s3JcCBE6OgAAAAlwSFlzAAAKxAAACsQBZm2C1AAAAAd0SU1FB+cGBQUGGUvxSaUAAAMeSURBVDjLjZRRaFt1FMZ/3/8mabt1HRVhogznHmS42qbSZNU3QTdEWIuKCm592YtTV+fAB5vOiWz6pGs7GXvQPkxBHBURnVAQJoKTJB0VNoWJW3Xq0E1sKllTmnv/x4fEkGad3Xm8557fPfc73zmiIQpD6SSy18B95OVO3HLw26g+P723JyavAcFWwzLJsakL9XnXCJTUL9Qn7LHAh4nGPF7NwE6DpwTbGtOxxgdxF4yUfdgMXBS2cF2BRfORgs+AfBgPjl/XEMvEXCZ9N9AXn191OFxdagsjf9ula5SdVHC+/E+o2H5h73eNTZ1fETg3vMUhOvE2AsSBtWa0/Fw0AQtAsarNIN5yySN5vyxw9pWUgsBtNLMh4BmgqfaWEc4UrVGeELOPJR0wuR+To1lbomHg2GRmJ4AOwFg5YkhPGnRB9ATwfW3K0b7NcUPvAped5x7hNwKjwLVlQIvAhEebgQ2gb8x09MyzqaDWYXFV61bM1kt6cM2b2f98tbeQSc8I3lqCM8bDcunFnmPnFgFy+x7YkwjLp4IEDwGTFR+aJYGrbQcrsLlMWnOZtMDGgS/rtL6I7PWeY+cWpwdTAki/fbpkIg901hu7Fbi9MHR/++z+nhbgALBHld87WafpJNLc9GBqFzB69vnedQDO04mptQY0+A1olaIBJ3crMAA8DS6BdLlqF4ALIAm2CfqiILrru8HUwyY6gF9rGjr0tWFl4CWFnDanR71n3qEiRICs+mFFEaWY9IIF1i6vEOww4C3wX9U6bDuUPQt8Ctxp4rjM39H+RvYXH64B3AagpWraTYF8LHkkd0XemsGOAr3Ah90jUz8tMXZhOLVeppPAvcBfwIShSclexdM5U7QAuAo8B3QBOyq2IQvqT47l/lgC/PPlLjXFE49IGgfWVQdhgGvYFF+tE/A7YmdyNH/qhrtcyGx5XNh7wNoVVu+Kwa7usfzn/3sPPf4TRH9losuuoAd+kGx72fPFTZ2vytVJd2AMA9sxmmaK5qqXZsK8Hep+pzKEmwYCzGbSq53ojULbfanE35h94J3l7hs5s3Cjmn8BwqtGI+QToFUAAAAASUVORK5CYII=&color=000000&logoColor=000000"> 
 <!--
 **x0S37h0x/x0s37h0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src ="https://img.shields.io/discord/829735457306443847">
