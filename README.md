@@ -31,3 +31,15 @@ Here are some ideas to get you started:
 | zebra stripes | are neat      |    $1 |
 
 <img src ="https://img.shields.io/discord/829735457306443847">
+
+
+
+
+<br>
+<br><br><br><br><br>
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x0S37h0x&theme=transparent&" />
+    <img src="https://streak-stats.demolab.com/?user=x0S37h0x&theme=transparent&locale=de&date_format=j%20M%5B%20Y%5D&card_width=338&fire=EB5454&sideLabels=14FF00&)](https://git.io/streak-stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=x0S37h0x&theme=transparent&" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0S37h0x&card_width=699&hide_border=true&theme=transparent&" />
+</p>
