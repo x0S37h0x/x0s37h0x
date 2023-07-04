@@ -18,22 +18,35 @@ Iam a little Reverse Engineer with some c++ and python Skills. Cybersec interess
 
 | Frameworks                                                                                                                                                  | Level         | 
 | -------------                                                                                                                                               |:-------------:|
-| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=ReactJS&style=plastic&logo=react&color=000000&logoColor=000000">        | Beginner      | 
-| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=SFML&style=plastic&logo=sfml&color=000000&logoColor=000000">            | Beginner      | 
-| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=Django&style=plastic&logo=django&color=000000&logoColor=000000">        | Intermediate  |  
-| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=Nextcord&style=plastic&logo=nextcord&color=000000&logoColor=000000">    | Intermediate  | 
+| <img src="https://img.shields.io/static/v1?label=Framework&labelColor=2c2c2c&message=ReactJS&style=plastic&logo=react&color=000000&logoColor=000000">        | Beginner      | 
+| <img src="https://img.shields.io/static/v1?label=Framework&labelColor=2c2c2c&message=SFML&style=plastic&logo=sfml&color=000000&logoColor=000000">            | Beginner      | 
+| <img src="https://img.shields.io/static/v1?label=Framework&labelColor=2c2c2c&message=Django&style=plastic&logo=django&color=000000&logoColor=000000">        | Intermediate  |  
+| <img src="https://img.shields.io/static/v1?label=Framework&labelColor=2c2c2c&message=Nextcord&style=plastic&logo=nextcord&color=000000&logoColor=000000">    | Intermediate  | 
 
 <br>
 
 | Databases                                                                                                                                                   | Level         | 
 | -------------                                                                                                                                               |:-------------:|
-| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=Postgresql&style=plastic&logo=postgresql&color=000000&logoColor=000000">| Beginner      | 
-| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=MSSQL&style=plastic&logo=mssql&color=000000&logoColor=000000">          | Beginner      | 
-| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=Mysql&style=plastic&logo=mysql&color=000000&logoColor=000000">          | Intermediate  |  
-| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=MongoDB&style=plastic&logo=mongodb&color=000000&logoColor=000000">      | Beginner      | 
+| <img src="https://img.shields.io/static/v1?label=Database&labelColor=2c2c2c&message=Postgresql&style=plastic&logo=postgresql&color=000000&logoColor=000000">| Beginner      | 
+| <img src="https://img.shields.io/static/v1?label=Database&labelColor=2c2c2c&message=MSSQL&style=plastic&logo=mssql&color=000000&logoColor=000000">          | Beginner      | 
+| <img src="https://img.shields.io/static/v1?label=Database&labelColor=2c2c2c&message=Mysql&style=plastic&logo=mysql&color=000000&logoColor=000000">          | Intermediate  |  
+| <img src="https://img.shields.io/static/v1?label=Database&labelColor=2c2c2c&message=MongoDB&style=plastic&logo=mongodb&color=000000&logoColor=000000">      | Beginner      | 
+
+<br>
+
+| Programs                                                                                                                                                       | Level         | 
+| -------------                                                                                                                                                  |:-------------:|
+| <img src="https://img.shields.io/static/v1?label=Program&labelColor=2c2c2c&message=IDAPro&style=plastic&logo=idap&color=000000&logoColor=000000">              | Beginner      | 
+| <img src="https://img.shields.io/static/v1?label=Program&labelColor=2c2c2c&message=Ollydbg&style=plastic&logo=ollydbg&color=000000&logoColor=000000">          | Beginner      | 
+| <img src="https://img.shields.io/static/v1?label=Program&labelColor=2c2c2c&message=VsCode&style=plastic&logo=vscode&color=000000&logoColor=000000">            | Beginner      |  
+| <img src="https://img.shields.io/static/v1?label=Program&labelColor=2c2c2c&message=Cygwin&style=plastic&logo=cygwin&color=000000&logoColor=000000">            | Beginner      | 
 
 <br>
 <br>
+
+
+
+
 
 -------------------------------------------------------------------------------------------------------------
 ### Discord
