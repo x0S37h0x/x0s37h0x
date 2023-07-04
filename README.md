@@ -14,6 +14,23 @@ Iam a little Reverse Engineer with some c++ and python Skills. Cybersec interess
 | <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=C%23&style=plastic&logo=csharp&color=000000&logoColor=000000">          | Intermediate  |  
 | <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=Python&style=plastic&logo=python&color=000000&logoColor=000000">        | Intermediate  | 
 
+<br>
+
+| Frameworks                                                                                                                                                  | Level         | 
+| -------------                                                                                                                                               |:-------------:|
+| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=ReactJS&style=plastic&logo=react&color=000000&logoColor=000000">        | Beginner      | 
+| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=SFML&style=plastic&logo=sfml&color=000000&logoColor=000000">            | Beginner      | 
+| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=Django&style=plastic&logo=django&color=000000&logoColor=000000">        | Intermediate  |  
+| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=Nextcord&style=plastic&logo=nextcord&color=000000&logoColor=000000">    | Intermediate  | 
+
+<br>
+
+| Databases                                                                                                                                                   | Level         | 
+| -------------                                                                                                                                               |:-------------:|
+| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=Postgresql&style=plastic&logo=postgresql&color=000000&logoColor=000000">| Beginner      | 
+| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=MSSQL&style=plastic&logo=mssql&color=000000&logoColor=000000">          | Beginner      | 
+| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=Mysql&style=plastic&logo=mysql&color=000000&logoColor=000000">          | Intermediate  |  
+| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=MongoDB&style=plastic&logo=mongodb&color=000000&logoColor=000000">      | Beginner      | 
 
 <br>
 <br>
