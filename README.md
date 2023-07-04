@@ -12,7 +12,7 @@ Iam a little Reverse Engineer with some c++ and python Skills. Cybersec interess
 | <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=C%2B%2B&style=plastic&logo=cplusplus&color=000000&logoColor=000000">    | Beginner      | 
 | <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=C&style=plastic&logo=C&color=000000&logoColor=000000">                  | Beginner      | 
 | <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=C%23&style=plastic&logo=csharp&color=000000&logoColor=000000">          | Intermediate  |  
-| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=Python&style=plastic&logo=python&color=3776AB&logoColor=3776AB">        | Intermediate  | 
+| <img src="https://img.shields.io/static/v1?label=Language&labelColor=2c2c2c&message=Python&style=plastic&logo=python&color=000000&logoColor=000000">        | Intermediate  | 
 
 
 <br>
